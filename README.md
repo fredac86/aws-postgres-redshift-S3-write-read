@@ -1,7 +1,7 @@
 # aws-postgres-redshift-S3-write-read
 ![image](https://github.com/fredac86/aws-postgres-redshift-S3-write-read/assets/70711128/dd128ef3-2c64-42e4-b1ec-c10c35140a0d)
 [PT]
-Softare de execução local para ler e escrever tabelas do resdshift-postgres e arquivos dos buckets do S3. 
+Softare para ler e escrever tabelas do resdshift-postgres e arquivos dos buckets do S3. 
 O programa pode ser usado em qualquer conta da aws e que o usuário tenha disponpivel as SECRET KEYS E ACCES KEYS, e as credenciais de conexão ao banco redshift-postgres. 
 O acesso às funcionalidades se dá por menu de opções numéricos para escolho de pastas/arquivos para leitura/escrita.
 O softare possui as seguintes funcionalidades.
@@ -11,7 +11,7 @@ O softare possui as seguintes funcionalidades.
 4) Escrever arquivos no S3 provenientes de dados de tabelas redshift-postgres
 
 [EN]
-Locally run software for reading and writing resdshift-postgres tables and files from S3 buckets.
+Software for reading and writing resdshift-postgres tables and files from S3 buckets.
 The program can be used in any aws account that the user has available as SECRET KEYS and ACCES KEYS, and as connection credentials to the redshift-postgres database.
 Access to functionalities is given through a numerical options menu for choosing folders/files for reading/writing.
 The software has the following features.
